@@ -1,0 +1,23 @@
+nav{
+    width:100%;
+    background: blue;
+}
+ul{
+    list-style:none;
+}
+li{
+    color:black
+    font:left;
+    font size:10px;
+    margin:right;20px;
+}
+.contanier{
+    max width:1200px;
+    background: #f2ff2f;
+    overflow:auto;
+    margin:auto;
+}
+.gallery{
+ margin:5px;
+ float:left;
+}
